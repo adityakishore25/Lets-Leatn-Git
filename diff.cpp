@@ -5,7 +5,7 @@ using namespace std;
 
 void code()
 {
-    
+    cout << 7-6;
 }
 
 int main()
