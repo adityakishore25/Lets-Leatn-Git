@@ -6,7 +6,7 @@ using namespace std;
 void code()
 {
     int a = 5, b = 4;
-    cout << a+b;
+    cout << "Sum is " << a+b;
 }
 
 int main()
